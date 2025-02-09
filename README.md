@@ -1,4 +1,4 @@
-# Trabalho 2 - README
+# Trabalho 2 - Ai - README
 
 ## Descrição
 Este projeto contém dois scripts principais: `trabalho.py` e `teste csv restaurant.py`. O primeiro script executa o trabalho principal, enquanto o segundo script testa para saber se o CSV esta a funcionar e se encontra no diretorio correto.
